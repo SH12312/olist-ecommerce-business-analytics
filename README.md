@@ -2,6 +2,8 @@
 
 **SQL | Power BI | Excel | VBA**
 
+[View Portfolio Case Study](Olist_Ecommerce_Portfolio_Case_Study.pdf)
+
 An end-to-end business analytics portfolio project using the Brazilian Olist E-Commerce Dataset (2016–2018), covering approximately 100,000 orders.
 
 ## Project Overview
